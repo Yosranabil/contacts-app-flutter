@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559498099656",
+    "project_id": "donutsauth",
+    "storage_bucket": "donutsauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559498099656:android:7cee1296f2372b7f44defd",
+        "android_client_info": {
+          "package_name": "com.example.task6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559498099656-n53vl9enpr6asrr1ok83ahcmvns8ds9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFfMWg256d_V9CVAJRtLdr_2IbOS5DWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559498099656-n53vl9enpr6asrr1ok83ahcmvns8ds9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
